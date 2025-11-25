@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  กิจกรรม  -->
+    <string-array name="activity_array">
+        <item>@string/no_exercise</item>
+        <item>@string/light_exercise</item>
+        <item>@string/normal_exercise</item>
+        <item>@string/heavy_exercise</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Text  -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--  Box  -->
+    <color name="box_start">#99BADD</color>
+    <color name="box_end">#ACDBF3</color>
+    <color name="shadow">#33000000</color>
+
+    <!--  Progress Bar  -->
+    <color name="bar">#00FF78</color>
+
+
+
+</resources>
